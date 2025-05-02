@@ -30,13 +30,10 @@ Além do escopo solicitado na atividade, foram aplicadas boas práticas e recurs
 
 - Linguagem: **Java**
 - Versão mínima recomendada: **Java 14**
-- Editor sugerido: NetBeans, IntelliJ IDEA ou VS Code
+- Editor sugerido: VS Code
 
----
+### Feito por Sara Cristina!💙 
 
-## Autor
-
-Sara Cristina
-Curso de Sistemas de Informação.
+Dúvidas ou sugestões? Entre em contato!
 
 
